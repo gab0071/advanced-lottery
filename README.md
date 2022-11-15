@@ -1,4 +1,4 @@
-<h1 aling="center">Learn Solidity with me 📚⛓✨</h1>
+<h1 aling="center">Advanced Lottery Project 📚⛓✨</h1>
 
 
 <a href="https://github.com/gab0071/advanced-lottery/commits/main" target="_blank">
@@ -24,17 +24,24 @@
   <br>
   <br>
 
-<p> I love the Solidity programming language, I wanted to leave a guide for newcomers who want to dare to navigate this beautiful process of building smart contracts with Solidity.</p>
-<p>You will be able to find all the basics well explained, all taken from the best resources that exist in the web3 space.</p>
-<p>Feel free to write me if you have any questions, or if you just want advice on where to start.</p>
+<p> Slightly more advanced lottery project, made with Solidity..</p>
+<p>In this project I wanted to go a little further with data type handling, I made a project where all the smart contracts are connected in certain functions, it was a bit crazy and I left comments in certain functions to guide you and know what it really does .</p>
+<p>I wanted to add the ERC-20 and ERC-721 tokens in a project, and better handle security in certain functions.</p>
+<p>I hope you can practice with this project, and add or customize anything you want.</p>
 
 <h2> Installing / Getting started </h2>
 
-```
-npm install
-```
+```bash
+# Clone this project
+$ git clone https://github.com/gab0071/advanced-lottery
 
-<p>Drop all necessary dependencies</p>
+# Access
+$ cd advanced-lottery
+
+# Install dependencies
+$ npm install
+
+``` 
 <hr>
 
 <h2> Technologies / Built With </h2>
