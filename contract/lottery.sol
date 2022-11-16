@@ -7,7 +7,7 @@ import '@openzeppelin/contracts@4.5.0/access/Ownable.sol';
 
 /* 
 
-@tittle OMS smart contract
+@tittle Lottery smart contract
 @author catellaTech 
 
 */
